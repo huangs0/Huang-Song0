@@ -1,0 +1,2 @@
+Welcome to my Git world.
+This is only  a test on how to use git.
